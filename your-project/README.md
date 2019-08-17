@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Laurent Guerguy*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Barcelona June 2019]*
 
 ## Content
 - [Project Description](#project-description)
@@ -21,7 +21,7 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+The project will analyse data from a bike share system using time series and try to forecast future usage of bike based on the current use.
 
 <a name="hypotheses-/-questions"></a>
 
