@@ -140,15 +140,10 @@ The graph can be seen below:
 ![observed_vs_prediction](../Images/observed_vs_prediction.png "Observed vs prediction")
 
 
+The prediction shows that the model is not completely robust. The prediction for the first two months is acceptable but more work is need in order to find a model more performant.
 
 
 
-
-<a name="organization"></a>
-
-## Organization
-I organized my work using Trello.
-I used tools like Jupyter Notebook and Matplotlib Seaborn and Tableau for data visualization
 
 <a name="links"></a>
 
