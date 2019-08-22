@@ -137,7 +137,7 @@ Now let's see what happens if we use the dynamic prediction. The dynamic predict
 
 The graph can be seen below:
 
-![dynamic_forecast](Images/dynamic_forecast.PNG "Observed vs Dynamic forecast")
+![dynamic_forecast](Images/dynamic_forecast.png "Observed vs Dynamic forecast")
 
 
 The prediction shows that the model is not completely robust. The prediction for the first two months is acceptable but more work is need in order to find a model more performant.
