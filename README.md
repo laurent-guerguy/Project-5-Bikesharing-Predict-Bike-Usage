@@ -32,7 +32,7 @@ The data is obtained from the following website: https://archive.ics.uci.edu/ml/
 
 By looking at the data for bike usage as a function of days one can see a periodic pattern to the data whereby the usage of bikes is higher during the summer and lower during the winter (see graph below).
 
-![graph_usage_time](/Images/graph_usage_time.png "Bike usage as a function of time")
+![graph_usage_time](Images/graph_usage_time.png "Bike usage as a function of time")
 
 
 ### Time series using a week lag
