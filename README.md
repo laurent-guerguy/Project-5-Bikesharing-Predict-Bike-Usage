@@ -59,7 +59,7 @@ In order to be able to use SARIMA one needs to check for Stationarity. This can 
 
 The result for the p-value of the test is 0.343 so the null hypothesis is valid and the data is not stationary and diferencing needs to be applied. After doing diferencing the data looks stationary (see graph below):
 
-![stationaery_data](Images/stationaery_data.PNG "Stationary data graph")
+![stationaery_data](Images/stationary_data.PNG "Stationary data graph")
 
 
 Performing another Augmented Dickey Fuller test gives a p-value of 1.05e-21 so it disproves the null hypothesis and it shows that the data is stationary.
@@ -137,7 +137,7 @@ Now let's see what happens if we use the dynamic prediction. The dynamic predict
 
 The graph can be seen below:
 
-![observed_vs_prediction](Images/observed_vs_prediction.PNG "Observed vs prediction")
+![observed_vs_prediction](Images/dynamic_forecast.PNG "Observed vs prediction")
 
 
 The prediction shows that the model is not completely robust. The prediction for the first two months is acceptable but more work is need in order to find a model more performant.
