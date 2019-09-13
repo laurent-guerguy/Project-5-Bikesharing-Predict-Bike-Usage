@@ -23,8 +23,7 @@ This will be achieved by using Time Series predicition with a SARIMA model.
 
 ## Dataset
 The dataset gives information about the use of the bikesharing system of Washington called Capital Bike for 2011 and 2012. It shows the amount of rides done every day using the bikeshare system, some information about the weather and the type of day (weekday, weekend or holidays).
-The data is obtained from the following website: https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
-
+The data is obtained from the [following website](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset).
 
 <a name="results"></a>
 
@@ -147,8 +146,8 @@ The prediction shows that the model is not completely robust. The prediction for
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
+Below are  the links to my repository, the presentation slides and Trello board I used to organize the work.
 
-[Repository](https://github.com/laurent-guerguy/Project-Week-5-Your-Own-Project/tree/master/your-project)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/laurent-guerguy/Project-5-Bikesharing-Predict-Bike-Usage)
+[Presentation Slides](https://docs.google.com/presentation/d/13CbBFrtWHlciA8Ky1YihT6y0lEv87EUPn0MFe8u8LPM/edit?usp=sharing)  
+[Trello board](https://trello.com/b/QaHnwmTY/bike-share-project)  
