@@ -148,6 +148,6 @@ The prediction shows that the model is not completely robust. The prediction for
 ## Links
 Below are  the links to my repository, the presentation slides and Trello board I used to organize the work.
 
-[Repository](https://github.com/laurent-guerguy/Project-5-Bikesharing-Predict-Bike-Usage)
+[Repository](https://github.com/laurent-guerguy/Project-5-Bikesharing-Predict-Bike-Usage)   
 [Presentation Slides](https://docs.google.com/presentation/d/13CbBFrtWHlciA8Ky1YihT6y0lEv87EUPn0MFe8u8LPM/edit?usp=sharing)  
 [Trello board](https://trello.com/b/QaHnwmTY/bike-share-project)  
