@@ -180,6 +180,23 @@ And we can actually see on the graph that the green curve gives a better account
 The next step will be to try to use the Prophet library to model the bike usage.
 
 
+### Model using Prophet
+
+The Prophet model is used to train the model. 
+When using the full dataset the simulation gives the following result:
+
+![Prophet_simulation](Images/Prophet_simulation.png "Prophet simulation")
+
+
+We can also compare the data from the simulation to the last month of data available (as test data)
+The graph below shows the difference between the test data and the prediction from Prophet.
+
+![prediction_vs_test_Prophet](Images/prediction_vs_test_Prophet_graph.png "Prediction vs test Prophet")
+
+The prediction seems a long way away from the test data. The Root Mean Square Error is calculated at 2720, which is larger than the ones obtained for SARIMA and SARIMAX.
+
+
+
 <a name="links"></a>
 
 ## Links
