@@ -152,7 +152,8 @@ SARIMA(1,1,1)(1,0,1,7)
 
 And when we plot the graph for the trained prediction compared to the test set we get the results below:
 
-![Prediction_vs_test_SARIMA](Images/prediction_vs_test_SARIMA_graph.PNG "Prediction vs test SARIMA")
+![prediction_vs_test_SARIMA](Images/prediction_vs_test_SARIMA_graph.png "Prediction vs test SARIMA")
+
 
 One can see that the predicted curve obtained from the SARIMA model does not compare very well to the test set, especially towards the last days of December.
 The prediction does very bad especially from day number 20 on. This could be due to a combination of Christmas holidays and bad weather.
@@ -169,7 +170,7 @@ SARIMAX(1,1,1)(2,0,1,7)
 
 And when we plot the graph for the trained predictions for SARIMA (orange) and SARIMAX (green) compared to the test set we get the results below:
 
-![Prediction_vs_test_SARIMAX](Images/prediction_vs_test_SARIMAX_graph.PNG "Prediction vs test SARIMAX")
+![prediction_vs_test_SARIMAX](Images/prediction_vs_test_SARIMAX_graph.png "Prediction vs test SARIMAX")
 
 Using the exogenous variables brings the prediction closer to the test.
 This is showm by the value of the Root Mean Square Error is lower for the SARIMAX model (1543 instead of 1845 for SARIMA).
